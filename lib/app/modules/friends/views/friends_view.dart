@@ -37,9 +37,9 @@ class FriendsView extends GetView<FriendsController> {
                  ),
                  Column(
     crossAxisAlignment: CrossAxisAlignment.start,
-    children: [Text('Task Management',style:TextStyle(fontSize: 20, color: AppColors.primaryText),
+    children: [Text('List Pekerjaan Karyawan',style:TextStyle(fontSize: 20, color: AppColors.primaryText),
     ),
-    Text('Manage task made easy with friends',style: TextStyle(fontSize: 15, color: AppColors.primaryText),
+    Text('Mengatur Kerjaan Karyawan Menjadi Lebih Mudah',style: TextStyle(fontSize: 15, color: AppColors.primaryText),
     ),
     ],
     ),
